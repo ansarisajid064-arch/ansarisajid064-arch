@@ -6,6 +6,8 @@ I have 5+ years of experience in healthcare claims analytics and out-of-network 
 
 ## Projects
 
+### [Olist E-Commerce Sales Dashboard](https://github.com/ansarisajid064-arch/Olist-Sales-Dashboard)
+An end-to-end BI project on the Brazilian Olist e-commerce dataset, using PostgreSQL for data modeling and Power BI for reporting.
 ### [Marketing A/B Test: Hypothesis Testing and Heterogeneity Analysis](https://github.com/ansarisajid064-arch/Marketing-A-B-Test-Hypothesis-Testing-and-Heterogeneity-Analysis)
 Analysis of a 588K-user A/B test. The ad lifted conversion by 0.77 percentage points (95% CI: 0.60 to 0.94, p < 0.001). The lift varies by day of week (I² ≈ 76%) but not by hour.
 *Methods: two-proportion z-test, chi-square, Bonferroni correction, Cochran's Q, Agresti-Caffo intervals.*
